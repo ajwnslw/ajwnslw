@@ -6,9 +6,9 @@
   - [osTicket: Prerequisites and Installation](https://github.com/ajwnslw/osticket-prereqs)
   - [osTicket: Post-Installation Configuration](https://github.com/ajwnslw/post-install-config)
   - [osTicket: Ticket Lifecycle Examples](https://github.com/ajwnslw/ticket-lifecycle)
-- <b>Microsoft Azure</b>
+- <b>Active Directory</b>
   - [Configuring Active Directory within Azure Virtual Machines](https://github.com/ajwnslw/configure-ad)
-  - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/ajwnslw/azure-network-protocols)
+  - [Fileshare and Permissions in Active Directory](https://github.com/ajwnslw/azure-network-protocols)
 
 <h2>Connect with me:</h2>
 
