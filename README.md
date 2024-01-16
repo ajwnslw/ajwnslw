@@ -8,7 +8,7 @@
   - [osTicket: Ticket Lifecycle Examples](https://github.com/ajwnslw/ticket-lifecycle)
 - <b>Active Directory</b>
   - [Configuring Active Directory within Azure Virtual Machines](https://github.com/ajwnslw/configure-ad)
-  - [Fileshare and Permissions in Active Directory](https://github.com/ajwnslw/ad-fileshare-permissions)
+  - [File Shares and Permissions in Active Directory](https://github.com/ajwnslw/ad-fileshare-permissions)
 
 <h2>Connect with me:</h2>
 
